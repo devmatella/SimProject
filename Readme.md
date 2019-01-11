@@ -1,5 +1,12 @@
 # Serveis i Multimedia SIM - Project Mòdul AOS 
 
+Trabajo realizado por Javier Llamas y Marc Soler
+
+Creación de las Base de Datos
+Creación del usuario de la base de datos
+Creación de la entidad bug 
+Validación mediante scrips con el comando curt
+
 
 
 El cas pràctic consisteix en l'anàlisi, disseny i desenvolupament d'un servei web ReST que s'utilitzarà per a registrar l’usuari i un bug del test d'un joc. Les operacions necessàries seran: 1). Donar d’alta d'un nou usuari en la plataforma. Les dades necessàries seran Nom, cognom, data de naixement i correu electrònic (obligatoris), país naixement, país de residència i adreça (opcional). L'operació retornarà la identificació de l'usuari. 
